@@ -27,7 +27,7 @@ html, body {
     padding-right: 40px;
     text-decoration: none;
     color: white;
-    font-family: fantasy;
+    font-family: 'Times New Roman', Times, serif;
     font-size: 170%;
     
 }
@@ -80,7 +80,7 @@ html, body {
     color: black;
     width: 60vw;
     font-size: large;
-    font-family: fantasy;
+    font-family: 'Times New Roman', Times, serif;
     letter-spacing: .5px;
 }
 
